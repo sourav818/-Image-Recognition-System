@@ -88,6 +88,7 @@ Pillow → Image file processing (JPG, PNG).
 Gunicorn → For deployment (Heroku, AWS, etc.).
 
 👨‍💻 Author
+
 Sourav Paul
 Intern @ Codec Technologies
 📧 Email: souravpaul043@gmail.com
